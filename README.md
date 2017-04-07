@@ -1,4 +1,4 @@
-# weatherForcastAppRepo
+# weatherForcastApp
 This app illustrate drawing weather forecast data from two cities using openWeather api and doing some computations based on data recieved.
 Technology used.
 OpenWeatherApp api
