@@ -8,4 +8,6 @@ Jquery Mobile=> Page transitions and responsive design
 Webservice=>.asmx =>consumed by client code in the .js file to perform the operations reuired
 MSSqlserver=>data storage
 Asp.net.
+
+
 Author => Kirk-Patrick Brown
