@@ -9,5 +9,9 @@ Webservice=>.asmx =>consumed by client code in the .js file to perform the opera
 MSSqlserver=>data storage
 Asp.net.
 
+For demo purposes the consumtion of the services are done on each execution.However in real situation 
+an additional method should be place in the .js file that triggers the noemal flow of the script based on a time interval
+or a time of day while server is running,say every 6 am each day.
+
 
 Author => Kirk-Patrick Brown
